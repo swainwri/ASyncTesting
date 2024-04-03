@@ -1,0 +1,15 @@
+{
+  "originHash" : "e136a481e77788000e389bab4520750903e9557c84c086a64f8655a55faeec82",
+  "pins" : [
+    {
+      "identity" : "asyncview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ralfebert/AsyncView",
+      "state" : {
+        "revision" : "62905b5289b766911c4d464517dce64b3b973100",
+        "version" : "0.5.1"
+      }
+    }
+  ],
+  "version" : 3
+}
